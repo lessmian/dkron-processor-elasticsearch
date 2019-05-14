@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/lessmian/dkron-processor-elasticsearch"
+	"github.com/victorcoder/dkron/plugin"
 )
 
 func main() {
